@@ -1,0 +1,45 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Computational Modeling and Simulation"
+    ],
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ],
+    [
+      "Engineering",
+      "Chemical Engineering"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Data Mining"
+    ],
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "10348943-17ed-6050-785f-ed42899d95c2"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Numerical Methods Applied to Chemical Engineering",
+  "course_description": "This course focuses on the use of modern computational and mathematical techniques in chemical engineering. Starting from a discussion of linear systems as the basic computational unit in scientific computing, methods for solving sets of nonlinear algebraic equations, ordinary differential equations, and differential-algebraic (DAE) systems are presented. Probability theory and its use in physical modeling is covered, as is the statistical analysis of data and parameter estimation. The finite difference and finite element techniques are presented for converting the partial differential equations obtained from transport phenomena to DAE systems. The use of these techniques will be demonstrated throughout the course in the MATLAB\u00ae computing environment.\n",
+  "department_numbers": [
+    "10"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "10.34",
+  "learning_resource_types": [
+    "Exams with Solutions",
+    "Problem Sets with Solutions"
+  ],
+  "title": "Course Metadata"
+}
